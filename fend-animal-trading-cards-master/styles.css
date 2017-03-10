@@ -1,0 +1,22 @@
+/* add your CSS here */
+body{
+	border-style: outset;
+	padding: 10px;
+}
+
+.discription{
+
+	border-style: outset;
+	padding: 10px;	
+}
+.list{
+	font-weight: bold;
+}
+.paragraph{
+	font-style: italic;
+}
+
+#image{
+	height: 200px;
+    width: 100%;
+}
