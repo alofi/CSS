@@ -2,21 +2,22 @@
 body{
 	border-style: outset;
 	padding: 10px;
+	width: 340px;
 }
 
 .discription{
-
 	border-style: outset;
 	padding: 10px;	
 }
+
 .list{
 	font-weight: bold;
+	list-style: none;
 }
 .paragraph{
 	font-style: italic;
 }
 
 #image{
-	height: 200px;
-    width: 100%;
+    width: 300px;
 }
