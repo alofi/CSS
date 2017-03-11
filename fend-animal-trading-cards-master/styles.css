@@ -13,9 +13,11 @@ body{
 .list{
 	font-weight: bold;
 }
+
 ul{
 	list-style: none;
 }
+
 .paragraph{
 	font-style: italic;
 }
